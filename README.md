@@ -1,4 +1,4 @@
-# MoneyLover
+# SmartCash
 
 Ứng dụng quản lý thu chi cá nhân: ghi giao dịch nhanh, thống kê trực quan, ngân sách, mục tiêu, và sao lưu/khôi phục an toàn.
 
