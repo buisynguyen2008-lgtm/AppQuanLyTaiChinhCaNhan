@@ -17,7 +17,7 @@
 
 ## Giới thiệu nhanh
 
-MoneyLover giúp bạn:
+SmartCash giúp bạn:
 
 - Ghi lại Thu/Chi hằng ngày thật nhanh (Quick Add)
 - Theo dõi thống kê trực quan (biểu đồ tròn/cột) với cơ chế fallback để tránh crash
